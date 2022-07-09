@@ -41,4 +41,8 @@ git начнёт отслеживать изменения.
 
 [ссылка на документ](Lesson_1.txt)
 
+[ссылка на источник](https://gbcdn.mrgcdn.ru/uploads/asset/3937510/attachment/187904bc7fa424abc113f5dda8b497ff.pdf)
+
+
+
 
